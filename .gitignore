@@ -1,0 +1,7 @@
+.idea/
+*.iml
+*.MF
+out/
+*.jar
+gfb-bitrix-support-plugin.jar
+gfb-bitrix-support-plugin.zip
